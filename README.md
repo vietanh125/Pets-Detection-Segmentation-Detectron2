@@ -1,4 +1,4 @@
-# PetsDetectionAndSegmentationDetectron2
+# Pets Detection And Segmentation Detectron2
 
 ## Dataset
 The Oxford-IIIT Pet Dataset: https://www.robots.ox.ac.uk/~vgg/data/pets/
